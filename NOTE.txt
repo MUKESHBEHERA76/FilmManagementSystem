@@ -1,0 +1,7 @@
+C# Application
+==============
+Console Application
+
+Functionality- Record insertion,
+		Record displaying,
+		Record Search
